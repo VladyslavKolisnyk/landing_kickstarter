@@ -20,7 +20,7 @@
     background-image: url(../images/mobil/benefits.png);
 
     @include backgroundSizePosition;
-
+    margin-inline: auto;
     grid-column: span 4;
     margin-bottom: 40px;
 
@@ -44,6 +44,7 @@
   &__content {
     display: flex;
     flex-direction: column;
+    // justify-content: center;
     grid-column: span 4;
     padding-inline: $padding-inlline-mobile;
 
@@ -63,6 +64,7 @@
   }
 
   &__title {
+    margin-inline: auto;
     @include onTablet {
       grid-column: 1 / 4;
     }
@@ -75,6 +77,7 @@
   }
 
   &__description {
+    margin-inline: auto;
     @include onTablet {
       width: 95%;
       grid-column: 1 / 4;
