@@ -1,5 +1,5 @@
 # Kickstarter landing page
-  - I made the website of the new specker. The site has a header, menu with navigation, seven sections and footer. Also I made slider for blok "features".
+  - I made the website of the new speacker. The site has a header, menu with navigation, seven sections and footer. Also I made slider for blok "features".
 - During development, I use:
 - - SASS preprocessor;
 - - BEM methodology;
