@@ -1,5 +1,5 @@
 # Kickstarter landing page
-  - I made the website of the museum. The site has a header, menu with navigation, five sections and footer. Also I made a slider for block "features".
+  - I made the website of the new specker. The site has a header, menu with navigation, seven sections and footer. Also I made slider for blok "features".
 - During development, I use:
 - - SASS preprocessor;
 - - BEM methodology;
